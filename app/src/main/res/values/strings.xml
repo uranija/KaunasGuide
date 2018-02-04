@@ -1,0 +1,149 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">KaunasGuide</string>
+
+    <!-- Category name for museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for nightlife [CHAR LIMIT=20] -->
+    <string name="category_nightlife">Nightlife</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for tours [CHAR LIMIT=20] -->
+    <string name="category_tours">Tours</string>
+
+    <!--Museums  [CHAR LIMIT=20] -->
+    <string name="kaunas_castle">KAUNAS CASTLE</string>
+
+    <!-- Museums [CHAR LIMIT=20] -->
+    <string name="kaunas_town_hall">KAUNAS TOWN HALL</string>
+
+    <!-- Museums [CHAR LIMIT=20] -->
+    <string name="IX_fort_museum">THE IX FORT MUSEUM</string>
+
+    <!-- Museums [CHAR LIMIT=20] -->
+    <string name="pazaislis_monastery">PAŽAISLIS MONASTERY</string>
+
+    <!-- Museums [CHAR LIMIT=20] -->
+    <string name="aviation_museum">MUSEUM OF LITHUANIAN AVIATION</string>
+
+    <!-- Museums [CHAR LIMIT=20] -->
+    <string name="war_museum">VYTAUTAS THE GREAT WAR MUSEUM</string>
+
+    <!-- Museums [CHAR LIMIT=20] -->
+    <string name="ciurlionis_museum">M. K. ČIURLIONIS NATIONAL ART MUSEUM</string>
+
+    <!-- Museums description  -->
+    <string name="castle_description">Kaunas Castle is the oldest stone castle in Lithuania built in the 14th century to resist crusaders’ attacks. A settlement started forming around this Gothic defensive building, growing into the present-day city. The castle was first mentioned in 1361. </string>
+
+    <!-- Museums description -->
+    <string name="hall_description">The construction of Kaunas Town Hall, also called the White Swan, was started in July 1542 according to the architect Benediktas Choinauskis’ project. The building, which is several hundred years old, has been reconstructed more than once.</string>
+
+    <!-- Museums description -->
+    <string name="fort_description">The Ninth Fort is one of the defences of Kaunas fortress and a historical and architectural monument protected by the state. It reveals Jews’ tragedy in Lithuania and tells the story of Kaunas Ghetto and massacre.</string>
+
+    <!-- Museums description -->
+    <string name="pazaislis_description">In 2011, Pažaislis monastery opened heritage exposition and educational class in southern officina of monastery, which has a vaulted cellar, equipped with a small cinema.</string>
+
+    <!-- Museums description -->
+    <string name="aviation_description">Together with the Kaunas Fire and Rescue Service,the museum collects exhibits related to fire fighting in Lithuania. The Museum‘s publishing house „Plieno sparnai“ was founded in 1991 and publishes aviators‘ recollections.</string>
+
+    <!-- Museums description -->
+    <string name="war_description">The museum contains archaeological finds, weapons, firearms, ammunition, army uniforms of various states, objects and documents, relating to the transatlantic flight of the "Lituanica".</string>
+
+    <!-- Museums description -->
+    <string name="ciurlionis_description">Established in 1921, the M. K. Čiurlionis National Museum of Art has turned into one of the oldest and largest art museums in Lithuania. Best place to become acquainted with the development of Lithuanian and international art history and culture.</string>
+
+    <!-- Nightlife [CHAR LIMIT=20] -->
+    <string name="blue_orange">B.O. (BLUE ORANGE)</string>
+
+    <!-- Nightlife description [CHAR LIMIT=20] -->
+    <string name="blue_orange_description">BO – a bar (you can even call it a beer bar) in Kaunas Old Town, with a long history, 20 varieties of draught beer and laid-back and friendly staff. Address:Muitinės g. 9, Kaunas.</string>
+
+    <!-- Nightlife [CHAR LIMIT=20] -->
+    <string name="basement_barbara">BASEMENT COCKTAIL BAR BY BARBAR\'A</string>
+
+    <!-- Nightlife description [CHAR LIMIT=20] -->
+    <string name="basement_barbara_description">One of the finest entertainment places in Kaunas! Basement by BarBar\'a has ame fantastic atmosphere! Address:Vilniaus g. 56.</string>
+
+    <!-- Nightlife [CHAR LIMIT=20] -->
+    <string name="republic">REPUBLIC NO.1</string>
+
+    <!--Nightlife description [CHAR LIMIT=20] -->
+    <string name="republic_description">RePUBlic – English style pub at Kaunas city center. Address:Laisvės al.57, Kaunas</string>
+
+    <!-- Nightlife [CHAR LIMIT=20] -->
+    <string name="gargaras">GARGARAS</string>
+
+    <!-- Nightlife description [CHAR LIMIT=20] -->
+    <string name="gargaras_description">"Gargaras" is a place for concerts, DJ performances, culture, art and other digital events. Address:Raudondvario pl. 101, Kaunas.</string>
+
+    <!-- Nightlife [CHAR LIMIT=20] -->
+    <string name="dejavu">DEJAVU PARTY BAR</string>
+
+    <!-- Nightlife description [CHAR LIMIT=20] -->
+    <string name="dejavu_description">City Hall is located in the basement cocktail bar Dejavu Party Bar "invites every Thursday, Friday and Saturday plunged into a whirl of fun. Address:Rotušės a. 2, Kaunas.</string>
+
+    <!-- Nightlife [CHAR LIMIT=20] -->
+    <string name="lizdas">LIZDAS</string>
+
+    <!--Nightlife description [CHAR LIMIT=20] -->
+    <string name="lizdas_description">Lizdas - bar at Kaunas city center. Address:Nepriklausomybės aikštė 12, Kaunas.</string>
+
+    <!-- Restaurants [CHAR LIMIT=20] -->
+    <string name="bajorkiemis">BAJORKIEMIS CITY</string>
+
+    <!-- Restaurants description [CHAR LIMIT=20] -->
+    <string name="bajorkiemis_description">„BAJORKIEMIS city“- restaurant in city center offering tradicional Lithuanian cuisine. Address:Kęstučio g. 86 / I. Kanto g. 18, Kaunas.</string>
+
+    <!-- Restaurants [CHAR LIMIT=30] -->
+    <string name="smukle">BERNELIŲ SMUKLĖ</string>
+
+    <!-- Restaurants description [CHAR LIMIT=20] -->
+    <string name="smukle_description">The highly cherished Lithuanian cuisine offers to taste a variety of dishes certified with the National Heritage and Culinary Heritage logos. Address:Valančiaus g. 11, Kaunas.</string>
+
+    <!-- Restaurants [CHAR LIMIT=20] -->
+    <string name="kaimas">ČILI KAIMAS</string>
+
+    <!-- Restaurants description [CHAR LIMIT=20] -->
+    <string name="kaimas_description">„Čili kaimas“ - traditional Lithuanian food restaurant.Address: Karaliaus Mindaugo g. 49 (PC „Akropolis“), Kaunas.</string>
+
+    <!-- Restaurants [CHAR LIMIT=20] -->
+    <string name="vartai">SENI VARTAI</string>
+
+    <!-- Restaurants description[CHAR LIMIT=20] -->
+    <string name="vartai_description">Restaurant kitchen not only Lithuanian. Here you can taste the charcoal-grilled fish, chicken, lamb, beef and pork dishes. Address:Savanorių pr. 290A, Kaunas.</string>
+
+    <!-- Restaurants[CHAR LIMIT=20] -->
+    <string name="stenlis">PAS STANLEY</string>
+
+    <!-- Restaurants description[CHAR LIMIT=20] -->
+    <string name="stenlis_description">“Pas Stanley” is a place where you will get food, prepared by experienced cooks from carefully selected and always fresh ingredients, for prices you do not expected. Address:Vilniaus g. 24, Kaunas.</string>
+
+    <!-- Tours [CHAR LIMIT=20] -->
+    <string name="kaunas_tour">KAUNAS CITY TOUR</string>
+
+    <!-- Tours description [CHAR LIMIT=20] -->
+    <string name="kaunas_tour_description"> The tour takes you through the main attractions in the city: Kaunas Castle, St. George’s Church, Catholic Seminary, City Hall Square, Jesuit Church and Monastery, Holy Trinity Church, Cathedral Basilica and more.</string>
+
+    <!-- Tours [CHAR LIMIT=20] -->
+    <string name="kaunas_tour_two">THE OLD TOWN SECRETS IN KAUNAS</string>
+
+    <!-- Tours Description[CHAR LIMIT=20] -->
+    <string name="kaunas_tour_two_description">A good opportunity to visit the most important and amusing places: see “White Swan”, Thunder House, Sun clock, Vytautas Church, and Kaunas castle. Tour is in the evening.</string>
+
+    <!-- Tours[CHAR LIMIT=20] -->
+    <string name="bear_tour">BEER ROUTE IN KAUNAS</string>
+
+    <!-- Tours description [CHAR LIMIT=20] -->
+    <string name="bear_tour_description">Discover when and where beer brewing started, its advantages and disadvantages. Find out what beer Lithuanians brewed first in Europe. Taste some special beer appreciated by Moscow millionaires. Observe the brewing process.</string>
+
+    <!--Tours[CHAR LIMIT=20] -->
+    <string name="bout_tour">BOAT TRIP TO BIRŠTONAS</string>
+
+    <!-- Tours description[CHAR LIMIT=20] -->
+    <string name="bout_tour_description"> A trip by boat from Kaunas to Birštonas. It takes you to visit beautiful little city of Birštonas and takes you back to Kaunas.</string>
+
+</resources>
