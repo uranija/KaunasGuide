@@ -1,5 +1,5 @@
 # KaunasGuide2
-## 6 project in ABND course
+##  Sixth project in ABND course
 
 The final project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making your own multi-screen Android app to share your knowledge about a city you are very familiar with.
 
