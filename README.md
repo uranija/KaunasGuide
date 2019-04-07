@@ -21,4 +21,8 @@ The goal was to create a tour guide app which presents relevant information to a
  - It may make sense for some lists to include information such as a phone number or business hours, but for others it may make more sense to have a photograph. Design your adapter based on the information you would like to show.
 
 
-
+![kaunas](https://user-images.githubusercontent.com/26045797/55687514-5cd53380-5976-11e9-9ddf-e1a0e67a3b35.png)
+![kaunas2](https://user-images.githubusercontent.com/26045797/55687516-62327e00-5976-11e9-9b27-2df162a70fa5.png)
+![kaunas3](https://user-images.githubusercontent.com/26045797/55687518-68c0f580-5976-11e9-9c4a-36ecd268fc3b.png)
+![kaunas4](https://user-images.githubusercontent.com/26045797/55687521-6d85a980-5976-11e9-87ca-89ca5f053df3.png)
+![kaunas5](https://user-images.githubusercontent.com/26045797/55687522-724a5d80-5976-11e9-97d9-2c91c69ef8fd.png)
