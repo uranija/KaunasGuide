@@ -1,4 +1,4 @@
-# KaunasGuide2
+# KaunasGuide
 ##  Sixth project in ABND course
 
 The objective of this project was to combine and practice everything I have learned in this section of the Nanodegree program. I had to  make my own multi-screen Android app to share my knowledge about a city i am very familiar with.
