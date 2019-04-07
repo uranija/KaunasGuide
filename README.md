@@ -3,16 +3,15 @@
 
 The objective of this project was to combine and practice everything I have learned in this section of the Nanodegree program. I had to  make my own multi-screen Android app to share my knowledge about a city i am very familiar with.
 
-The goal is to create a tour guide app which presents relevant information to a user who’s visiting your city. The app can list top attractions, restaurants, public places, or events for the city. It can contain all the best known secrets that only locals know. It’s up to you which categories you want to provide, as well as what information to provide in each category.
+The goal was to create a tour guide app which presents relevant information to a user who’s visiting my city. The app can list top attractions, restaurants, public places, or events for the city. It can contain all the best known secrets that only locals know. My decision was which categories i want to provide, as well as what information to provide in each category.
 
-This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
-
-Planning your app design and navigation before coding.
-Selecting proper data structures to store lists of information.
-Building layouts to display those lists of data.
-Navigating between those lists using intents and multiple Activities or a ViewPager.
-Creating your own custom classes.
-Properly handling images or audio (if applicable).
+##Project overview:
+ - Planning your app design and navigation before coding.
+ - Selecting proper data structures to store lists of information.
+ - Building layouts to display those lists of data.
+ - Navigating between those lists using intents and multiple Activities or a ViewPager.
+ - Creating your own custom classes.
+ - Properly handling images or audio (if applicable).
 
 For this project, you'll be making a Tour Guide app. This is an app with multiple screens, each of which lists a kind of attraction for a given city, national park, or historical monument. For instance, an app focused on Mountain View, CA might include a list of startup headquarters as well as a list of restaurants and a list of parks.
 
